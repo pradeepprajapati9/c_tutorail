@@ -11,7 +11,8 @@ void  /
 void /
 `
 
-natural number =====
+## natural number =====
+`
 #include<stdio.h>
 int sum(int n);
 int main(){
@@ -31,9 +32,9 @@ int sum(int n){
 }
 
 `
-`
 ## check if a file exists beforee reading from it 
 =================================================================
+`
 #include<stdio.h>
 int main(){
   FILE *fptr;
